@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://orizeigo.github.io/Dwc/sitemap_index.txt
+Sitemap: https://orizeigo.github.io/IkS/sitemap_index.txt
+Sitemap: https://orizeigo.github.io/ODy/sitemap_index.txt
+Sitemap: https://orizeigo.github.io/sjf/sitemap_index.txt
